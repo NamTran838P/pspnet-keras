@@ -15,6 +15,10 @@ To install:
 
 python setup.py install
 
+Also, please retrieve the folder named weights from the link below and overwrite it on top of the existing folder named weights:
+
+https://drive.google.com/drive/folders/1MyjvBYHOESOSge_dw8yFXxtLuT8IiIFB?usp=sharing
+
 Usage:
 ```
 python3 pspnet.py
