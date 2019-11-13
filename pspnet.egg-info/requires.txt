@@ -1,0 +1,9 @@
+numpy
+scipy
+pillow
+matplotlib
+keras
+tensorflow-gpu
+h5py
+requests
+cityscapesscripts

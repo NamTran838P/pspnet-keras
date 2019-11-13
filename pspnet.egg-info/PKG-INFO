@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pspnet
+Version: 0.1
+Summary: A Keras implementation of Pyramid Scene Parsing Networks
+Home-page: https://github.com/jmtatsch/PSPNet-Keras-tensorflow
+Author: Vlad Kryvoruchko, Chaoyue Wang, Jeffrey Hu & Julian Tatsch
+Author-email: julian@tatsch.it
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,3 @@
+[console_scripts]
+pspnet = pspnet.pspnet:main
+

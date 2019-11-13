@@ -1,0 +1,1 @@
+https://github.com/jmtatsch/cityscapesScripts/tarball/master#egg=cityscapesscripts-0.1
